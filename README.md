@@ -14,7 +14,7 @@ This markdown file contains a summary of report on the neighborhood-based and mo
   4. Matrix Factorization model:
   5. Conclusion (Business Value and Next steps)
 
-## KNN.ipynb
+## KNN_Final.ipynb
 
 This file contains all the code for our neighborhood-based algorithm KNN.
 
