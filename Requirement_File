@@ -1,1 +1,8 @@
+For KNN user-based model, the following packages are required to run the codes:
 
+numpy, pandas, datetime, matplotlib.pyplot, sklearn.model_selection, sklearn.metrics.pairwise, sklearn.metrics, math, time
+
+
+For SVD matrix factorization model, the following packages are required to run the codes:
+
+pandas，numpy，sklearn.model_selection，sklearn.model_selection，scipy.sparse.linalg，matplotlib.pyplot, time
