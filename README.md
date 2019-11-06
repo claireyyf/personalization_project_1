@@ -9,16 +9,11 @@ This markdown file contains a summary of report on the neighborhood-based and mo
   1. Introduction
   2. How we sample our data
   3. Neighborhood-based model:
-  
-  - Historical Prices
   - Model Setup
   - Model Evaluation
   - Model Exploration
-  - Log Returns
-  - Cumulative Distribution Function
-
-  4. Matrix Factorization model
-    a. Model Setup
-    b. Model Evaluation
-    c. Model Exploration (tuning hyperparameters)
+  4. Matrix Factorization model:
+  - Model Setup
+  - Model Evaluation
+  - Model Exploration (tuning hyperparameters)
   5. Conclusion & Next steps
